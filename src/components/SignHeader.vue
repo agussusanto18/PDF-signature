@@ -21,24 +21,7 @@ function changeLocale(code: string) {
     </router-link>
 
     <div class="flex items-center gap-2 md:gap-4">
-      <button
-        :class="['btn_small btn_primary', { active: locale === 'zh-TW' }]"
-        @click="changeLocale('zh-TW')"
-      >
-        中文
-      </button>
-      <button
-        :class="['btn_small btn_primary', { active: locale === 'en-US' }]"
-        @click="changeLocale('en-US')"
-      >
-        English
-      </button>
-      <a href="https://github.com/tzuyi0817/PDF-signature">
-        <sign-icon
-          name="github"
-          class="w-6 h-6 md:w-8 md:h-8 text-gray-40 active:scale-90"
-        />
-      </a>
+     
     </div>
   </header>
 </template>
