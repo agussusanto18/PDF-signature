@@ -11,19 +11,7 @@ function changeLocale(code: string) {
 </script>
 
 <template>
-  <header class="sign_header">
-    <router-link to="/">
-      <img
-        src="@/assets/logo/logo_darkbg_horizontal.png"
-        class="w-36 md:w-[228px]"
-        alt="logo"
-      />
-    </router-link>
-
-    <div class="flex items-center gap-2 md:gap-4">
-     
-    </div>
-  </header>
+  
 </template>
 
 <style lang="postcss" scoped>
