@@ -30,7 +30,7 @@
   "prompt": {
     "archived_projects": "Archived projects will be displayed here",
     "auto_jump_screen": "After completion, the screen will jump automatically. If there is no jump page, please press the confirm button.",
-    "create_file": "Come and create a new file",
+    "create_file": "Upload and sign your document",
     "deleted_projects": "Deleted items will be displayed here",
     "file_archived_success": "File archived successfully",
     "file_created_success": "File created successfully",
